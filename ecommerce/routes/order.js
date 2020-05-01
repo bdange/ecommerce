@@ -36,7 +36,6 @@ router.put(
   requireSignin,
   isAuth,
   isAdmin,
-  getStatusValues,
   updateOrderStatus
 );
 
