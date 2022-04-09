@@ -20,7 +20,7 @@
     "formidable": "^1.2.2",
     "jsonwebtoken": "^8.5.1",
     "loadash": "^1.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.9.7",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.3",
